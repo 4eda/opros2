@@ -31,17 +31,8 @@ export default {
       TwoName: 'Введите Фамилию',
       Otch: 'Введите Отчество',
       email: 'Введите E-Mail',
-      Phone: 'Введите номер телефона',
-      isShow1: false,
-      isShow2: false
-      
+      Phone: 'Введите номер телефона'
     }
-  },
-  methods:{
-   isShowText() {
-          this.isShow1 = !this.isShow1;
-          this.isShow2 = !this.isShow2;
-      }
   }
 }
 </script>
