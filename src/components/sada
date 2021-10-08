@@ -1,0 +1,8 @@
+    title: 'Home',
+      FirstName: 'Введите Имя',
+      TwoName: 'Введите Фамилию',
+      Otch: 'Введите Отчество',
+      email: 'Введите E-Mail',
+      Phone: 'Введите номер телефона',
+      isShow1: false,
+      isShow2: false
